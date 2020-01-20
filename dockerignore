@@ -1,0 +1,4 @@
+# 忽略下面的文件，不拷贝到镜像里面去
+.gitignore
+Dockerfile
+node_modules
